@@ -1,8 +1,14 @@
-# Checklist
+# React Controle de Notas
+## Desafio 4 do Bootcamp Fullstack Javascript Developer do IGTI
 
-(✓) criar conexão com a API;
-(✓) estabelecer métodos de tratamento dos dados da API [getGrades, insertGrade, updateGrade, etc.];
-(✓) definir estado [useState];
-(✓) definir ciclo de vida [useEffect];
-(✓) passar as props para o componente filho [App.js -> GradesControl.js];
-( ) implementar as funções de manipulação do estado [handleDelete, handlePersist];
+## Objetivo
+Criar uma interface para visualizar e modificar as notas vindas de uma API com notas de alunos fictícios.
+
+## Ferramentas e conceitos
+- react;
+- react-bootstrap;
+- React Hooks;
+- Ciclo de vida dos componentes;
+
+## Saída
+[Resultado](https://github.com/carloscarrinho/react-controle-de-notas/blob/master/output.gif)
