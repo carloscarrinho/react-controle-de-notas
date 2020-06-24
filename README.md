@@ -11,4 +11,4 @@ Criar uma interface para visualizar e modificar as notas vindas de uma API com n
 - Ciclo de vida dos componentes;
 
 ## Saída
-[Resultado](https://github.com/carloscarrinho/react-controle-de-notas/blob/master/output.gif)
+(Resultado)[https://github.com/carloscarrinho/react-controle-de-notas/blob/master/output.gif]
